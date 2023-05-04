@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_03 (Oracle Corporation)
+Main-Class: net.codejava.swing.mail.SwingEmailSender
+Class-Path: lib\javax.mail.jar
